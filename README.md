@@ -1,5 +1,5 @@
 ### Hi, I'm Theodora 👋 
-#### I'm a Frontend Devleoper.
+#### I'm a Full-Stack Devleoper.
 
 📫 How to reach me: 
 <br/>
